@@ -26,5 +26,7 @@ It uses the OpenWeather API to fetch real-time weather data for any city entered
 # Requirements:
 OpenWeather API key
 
-<img width="534" height="567" alt="Screenshot 2025-09-12 181557" src="https://github.com/user-attachments/assets/5e7b0daa-ffed-405a-9ca3-c76805e1e7c6" />
+# Screenshots:
+
+<img width="434" height="467" alt="Screenshot 2025-09-12 181557" src="https://github.com/user-attachments/assets/5e7b0daa-ffed-405a-9ca3-c76805e1e7c6" />
 
