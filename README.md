@@ -13,7 +13,7 @@ It uses the OpenWeather API to fetch real-time weather data for any city entered
 - Clean, responsive, and user-friendly interface.
 - Simple and readable design with styled components.
 
-# How It Works
+# Working:
 1. The user enters a city name in the input field.
 2. A request is sent to the OpenWeather API to fetch live weather data.
 3. The response provides temperature, humidity, description, and weather condition codes.
@@ -24,8 +24,7 @@ It uses the OpenWeather API to fetch real-time weather data for any city entered
 5. If an error occurs (e.g., invalid city), an error message is shown instead of the weather data.
 
 # Requirements:
-HTML5
-CSS3
-JavaScript (ES6+)
 OpenWeather API key
+
+<img width="534" height="567" alt="Screenshot 2025-09-12 181557" src="https://github.com/user-attachments/assets/5e7b0daa-ffed-405a-9ca3-c76805e1e7c6" />
 
